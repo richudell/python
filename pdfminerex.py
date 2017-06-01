@@ -31,9 +31,9 @@ def convert(case,fname, pages=None):
     return convertedPDF
 
 #//////////// main ///////////////////////
-filePDF  = '170525.pdf'     # input
-fileHTML = '170525.pdf.html'   # output
-fileTXT  = '170525.pdf.txt'     # output
+filePDF  = 'rwservlet.pdf'     # input
+fileHTML = 'rwservlet.pdf.html'   # output
+fileTXT  = 'rwservlet.pdf.txt'     # output
 
 case = "text"
 
